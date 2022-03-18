@@ -1,6 +1,0 @@
-Write a program to find Sum of n different number entered by the user
-int input_array_size();
-void input_array(int n, int a[n]);
-int sum_n_arrays(int n, int a[n]);
-void out_put(int n, int a[n], int sum);
-
